@@ -1,0 +1,36 @@
+{
+    "items":[
+        {
+            "sys":{"id":"1"},
+            "fields":{
+                "title":" 'Range Rover'travel for life",
+                "price":3200000,
+                "image":{"fields":{"file":{"url":"img/range.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"2"},
+            "fields":{
+                "title":" 'Rush'travel for life",
+                "price":2800000,
+                "image":{"fields":{"file":{"url":"img/rush.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"3"},
+            "fields":{
+                "title":" 'Prado'travel for life",
+                "price":2500000,
+                "image":{"fields":{"file":{"url":"img/prado.png"}}}
+            }
+        },
+        {
+            "sys":{"id":"4"},
+            "fields":{
+                "title":" 'Civic'travel for life",
+                "price":2000000,
+                "image":{"fields":{"file":{"url":"img/civic.png"}}}
+            }
+        }
+    ]
+}
